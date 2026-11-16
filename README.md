@@ -3,11 +3,11 @@
 <img src="assets/banner.svg" alt="Nicolás Richardson · xSempiternus" width="100%">
 
 <p>
-<img src="https://img.shields.io/badge/Python-0b0f14?style=for-the-badge&logo=python&logoColor=ffb454" alt="Python">
-<img src="https://img.shields.io/badge/Computer%20Vision-0b0f14?style=for-the-badge&logo=opencv&logoColor=5ccfe6" alt="Computer Vision">
-<img src="https://img.shields.io/badge/FastAPI-0b0f14?style=for-the-badge&logo=fastapi&logoColor=ffb454" alt="FastAPI">
-<img src="https://img.shields.io/badge/Next.js-0b0f14?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/Docker-0b0f14?style=for-the-badge&logo=docker&logoColor=5ccfe6" alt="Docker">
+<img src="https://img.shields.io/badge/Python-140a2b?style=for-the-badge&logo=python&logoColor=ff5fcf" alt="Python">
+<img src="https://img.shields.io/badge/Computer%20Vision-140a2b?style=for-the-badge&logo=opencv&logoColor=3ee7ff" alt="Computer Vision">
+<img src="https://img.shields.io/badge/FastAPI-140a2b?style=for-the-badge&logo=fastapi&logoColor=ff5fcf" alt="FastAPI">
+<img src="https://img.shields.io/badge/Next.js-140a2b?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/Docker-140a2b?style=for-the-badge&logo=docker&logoColor=3ee7ff" alt="Docker">
 </p>
 
 **Física aplicada a productos que se pueden medir: visión por computador, modelos de riesgo y software que llega a producción.**
