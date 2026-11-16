@@ -50,12 +50,12 @@ Soy ingeniero físico (Universidad Andrés Bello). Me muevo entre tres mundos: *
 
 <table>
 <tr>
-<td width="50%" align="center"><img src="https://raw.githubusercontent.com/xSempiternus/BermGuard/main/docs/showcase/img/hero.gif" alt="BermGuard: pretil y proximidad entre equipos en un botadero" width="100%"><br><sub><b>BermGuard</b> · pretil y proximidad entre equipos (videos generados con IA)</sub></td>
-<td width="50%" align="center"><img src="https://raw.githubusercontent.com/4mser/nova/main/.github/media/ar-cpr.gif" alt="NOVA: guía de RCP con realidad aumentada" width="100%"><br><sub><b>NOVA</b> · guía de RCP con realidad aumentada</sub></td>
+<td width="50%" align="center"><img src="assets/bermguard-hero.gif" alt="BermGuard: pretil y proximidad entre equipos en un botadero" width="100%"><br><sub><b>BermGuard</b> · pretil y proximidad entre equipos (videos generados con IA)</sub></td>
+<td width="50%" align="center"><img src="assets/nova-ar-cpr.gif" alt="NOVA: guía de RCP con realidad aumentada" width="100%"><br><sub><b>NOVA</b> · guía de RCP con realidad aumentada</sub></td>
 </tr>
 <tr>
-<td width="50%" align="center"><img src="https://raw.githubusercontent.com/4mser/nova/main/.github/media/emergency.gif" alt="NOVA: protocolos de emergencia" width="100%"><br><sub><b>NOVA</b> · protocolos de emergencia paso a paso</sub></td>
-<td width="50%" align="center"><img src="https://raw.githubusercontent.com/4mser/nova/main/.github/media/station-ecg.gif" alt="NOVA Station: electrocardiograma" width="100%"><br><sub><b>NOVA Station</b> · estación médica y ECG</sub></td>
+<td width="50%" align="center"><img src="assets/nova-emergency.gif" alt="NOVA: protocolos de emergencia" width="100%"><br><sub><b>NOVA</b> · protocolos de emergencia paso a paso</sub></td>
+<td width="50%" align="center"><img src="assets/nova-station-ecg.gif" alt="NOVA Station: electrocardiograma" width="100%"><br><sub><b>NOVA Station</b> · estación médica y ECG</sub></td>
 </tr>
 </table>
 
