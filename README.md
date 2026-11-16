@@ -46,6 +46,21 @@ Soy ingeniero físico (Universidad Andrés Bello). Me muevo entre tres mundos: *
 
 <img src="assets/divider.svg" width="100%" alt="">
 
+## En acción
+
+<table>
+<tr>
+<td width="50%" align="center"><img src="https://raw.githubusercontent.com/xSempiternus/BermGuard/main/docs/showcase/img/hero.gif" alt="BermGuard: pretil y proximidad entre equipos en un botadero" width="100%"><br><sub><b>BermGuard</b> · pretil y proximidad entre equipos (videos generados con IA)</sub></td>
+<td width="50%" align="center"><img src="https://raw.githubusercontent.com/4mser/nova/main/.github/media/ar-cpr.gif" alt="NOVA: guía de RCP con realidad aumentada" width="100%"><br><sub><b>NOVA</b> · guía de RCP con realidad aumentada</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="https://raw.githubusercontent.com/4mser/nova/main/.github/media/emergency.gif" alt="NOVA: protocolos de emergencia" width="100%"><br><sub><b>NOVA</b> · protocolos de emergencia paso a paso</sub></td>
+<td width="50%" align="center"><img src="https://raw.githubusercontent.com/4mser/nova/main/.github/media/station-ecg.gif" alt="NOVA Station: electrocardiograma" width="100%"><br><sub><b>NOVA Station</b> · estación médica y ECG</sub></td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
 ## Trayectoria
 
 | | |
@@ -55,6 +70,12 @@ Soy ingeniero físico (Universidad Andrés Bello). Me muevo entre tres mundos: *
 | **Oct 2025** | Co-fundador y CSO de Fidelya; consultor de datos en riesgo de crédito |
 | **2026** | Visión computacional y ML en B&N Solutions |
 | **Nov 2026** | 🏆 Ganador del NASA International Space Apps Challenge con NOVA |
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## Divulgación
+
+Escribo cuadernos de divulgación científica para [B&N Solutions](https://bnsolutions.cl): física, tiempo y entropía, con experimentos interactivos como el efecto mariposa. Las simulaciones del laboratorio son abiertas en [`bn-lab-simulations`](https://github.com/4mser/bn-lab-simulations): 40 experimentos de física y matemáticas para la web.
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -102,7 +123,7 @@ flowchart LR
 
 <div align="center">
 
-**¿Hablamos?** &nbsp;·&nbsp; [fidelya.cl](https://fidelya.cl) &nbsp;·&nbsp; [GitHub](https://github.com/xSempiternus) &nbsp;·&nbsp; [Hugging Face](https://huggingface.co/xSempiternus)
+**¿Hablamos?** &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/nicolas-richardson-rojas) &nbsp;·&nbsp; [fidelya.cl](https://fidelya.cl) &nbsp;·&nbsp; [GitHub](https://github.com/xSempiternus) &nbsp;·&nbsp; [Hugging Face](https://huggingface.co/xSempiternus)
 
 <sub>Escrito con señal, no con ruido.</sub>
 
