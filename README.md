@@ -3,11 +3,11 @@
 <img src="assets/banner.svg" alt="Nicolás Richardson · xSempiternus" width="100%">
 
 <p>
-<img src="https://img.shields.io/badge/Python-25231a?style=for-the-badge&logo=python&logoColor=d9d3ad" alt="Python">
-<img src="https://img.shields.io/badge/Computer%20Vision-25231a?style=for-the-badge&logo=opencv&logoColor=7fb8b2" alt="Computer Vision">
-<img src="https://img.shields.io/badge/FastAPI-25231a?style=for-the-badge&logo=fastapi&logoColor=d9d3ad" alt="FastAPI">
-<img src="https://img.shields.io/badge/Next.js-25231a?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/Docker-25231a?style=for-the-badge&logo=docker&logoColor=7fb8b2" alt="Docker">
+<img src="https://img.shields.io/badge/Python-0f1620?style=for-the-badge&logo=python&logoColor=5ccfe6" alt="Python">
+<img src="https://img.shields.io/badge/Computer%20Vision-0f1620?style=for-the-badge&logo=opencv&logoColor=ffb454" alt="Computer Vision">
+<img src="https://img.shields.io/badge/FastAPI-0f1620?style=for-the-badge&logo=fastapi&logoColor=5ccfe6" alt="FastAPI">
+<img src="https://img.shields.io/badge/Next.js-0f1620?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/Docker-0f1620?style=for-the-badge&logo=docker&logoColor=ffb454" alt="Docker">
 </p>
 
 **Física aplicada a productos que se pueden medir: visión por computador, modelos de riesgo y software que llega a producción.**
@@ -125,10 +125,10 @@ Publiqué un artículo en [B&N Solutions](https://www.bnsolutions.cl/filtracione
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-## Stack, en órbita
+## Stack
 
 <div align="center">
-<img src="assets/orbit.svg" alt="Stack: ciencia, backend y producto" width="560">
+<img src="assets/stack.svg" alt="Stack: ciencia, modelos e IA, backend y producto" width="100%">
 </div>
 
 ## Cómo encaja todo
