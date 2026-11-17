@@ -62,6 +62,30 @@ Los túneles viales urbanos se filtran, y hoy se inspeccionan a ojo. Si el túne
 
 <img src="assets/divider.svg" width="100%" alt="">
 
+## Fidelya: fidelización e inteligencia de clientes
+
+Co-fundé **[Fidelya](https://fidelya.cl)** y soy su CSO. Es una plataforma para locales gastronómicos: carta con QR, pedido desde la mesa, club de puntos, app para el equipo de sala y **AURA**, que recomienda a cada cliente lo que le gusta y trae de vuelta a los que dejaron de venir.
+
+<table>
+<tr>
+<td width="32%" align="center" valign="top"><img src="assets/fidelya-app.gif" alt="App de meseros de Fidelya: mesas, llamado del cliente y perfil del socio" width="280"><br><sub>App de meseros (<a href="https://fidelya.cl">fidelya.cl</a>)</sub></td>
+<td width="68%" valign="top">
+
+**Lo que diseñé y construí como CSO**
+
+- **AURA Analytics:** un sistema MCP sobre LLMs locales (Ollama) que detecta clientes en riesgo de abandono y sugiere campañas.
+- **Chatbot de postventa con RAG** para los dueños de locales.
+- **Escáner de inventario con visión computacional y OCR** para boletas, con arquitecturas Donut para procesar en local, sin LLMs comerciales.
+- **Content Studio:** un orquestador que combina un LLM y una API de imágenes para producir reels y publicidad con el estilo visual de la marca.
+- **Módulo de validación y QA** para monitorear sesiones y errores, y un generador de propuestas comerciales por rubro.
+- **Mascota 3D en Blender** y videos promocionales con AMBAR Studio.
+
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
 ## En acción
 
 <table>
@@ -71,7 +95,7 @@ Los túneles viales urbanos se filtran, y hoy se inspeccionan a ojo. Si el túne
 </tr>
 <tr>
 <td width="50%" align="center"><img src="assets/nova-ar-cpr.gif" alt="NOVA: guía de RCP con realidad aumentada" width="100%"><br><sub><b>NOVA</b> · guía de RCP con realidad aumentada</sub></td>
-<td width="50%" align="center"><img src="assets/nova-emergency.gif" alt="NOVA: protocolos de emergencia" width="100%"><br><sub><b>NOVA</b> · protocolos de emergencia paso a paso</sub></td>
+<td width="50%" align="center"><img src="assets/bermguard-detector-propio.png" alt="BermGuard: el detector propio separa al CAEX y al bulldozer en dos cajas" width="389"><br><sub><b>BermGuard</b> · detector propio: dos máquinas, dos cajas (el modelo COCO las juntaba en una)</sub></td>
 </tr>
 </table>
 
