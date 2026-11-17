@@ -2,13 +2,7 @@
 
 <img src="assets/banner.svg" alt="Nicolás Richardson · xSempiternus" width="100%">
 
-<p>
-<img src="https://img.shields.io/badge/Python-0f1620?style=for-the-badge&logo=python&logoColor=5ccfe6" alt="Python">
-<img src="https://img.shields.io/badge/Computer%20Vision-0f1620?style=for-the-badge&logo=opencv&logoColor=ffb454" alt="Computer Vision">
-<img src="https://img.shields.io/badge/FastAPI-0f1620?style=for-the-badge&logo=fastapi&logoColor=5ccfe6" alt="FastAPI">
-<img src="https://img.shields.io/badge/Next.js-0f1620?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/Docker-0f1620?style=for-the-badge&logo=docker&logoColor=ffb454" alt="Docker">
-</p>
+<img src="assets/marquee.svg" alt="Tecnologías: Python, PyTorch, OpenCV, Hugging Face, TensorFlow, FastAPI, Docker, Next.js, Rust y más" width="100%">
 
 **Física aplicada a productos que se pueden medir: visión por computador, modelos de riesgo y software que llega a producción.**
 
