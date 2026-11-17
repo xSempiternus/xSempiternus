@@ -16,8 +16,6 @@
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-> Los proyectos de este perfil los llevamos a cabo en **[B&N Solutions](https://www.bnsolutions.cl)**, la consultora tecnológica donde desarrollamos visión por computador, IA, software a medida y divulgación científica.
-
 ## Qué hago
 
 Soy ingeniero físico (Universidad Andrés Bello). Me muevo entre tres mundos: **modelar** (ML, visión, estadística), **validar** (riesgo de crédito en banca) y **construir** (backend, web y herramientas). Co-fundé **[Fidelya](https://fidelya.cl)**, donde soy CSO; trabajo en visión computacional y ML en **[B&N Solutions](https://www.bnsolutions.cl)**, una consultora tecnológica, y como consultor de datos en **Management Solutions**.
