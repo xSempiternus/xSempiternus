@@ -75,7 +75,6 @@ Co-fundé **[Fidelya](https://fidelya.cl)** y soy su CSO. Es una plataforma para
 
 - **AURA Analytics:** un sistema MCP sobre LLMs locales (Ollama) que detecta clientes en riesgo de abandono y sugiere campañas.
 - **Chatbot de postventa con RAG** para los dueños de locales.
-- **Escáner de inventario con visión computacional y OCR** para boletas, con arquitecturas Donut para procesar en local, sin LLMs comerciales.
 - **Content Studio:** un orquestador que combina un LLM y una API de imágenes para producir reels y publicidad con el estilo visual de la marca.
 - **Módulo de validación y QA** para monitorear sesiones y errores, y un generador de propuestas comerciales por rubro.
 - **Mascota 3D en Blender** y videos promocionales con AMBAR Studio.
