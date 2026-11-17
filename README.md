@@ -34,16 +34,16 @@ Soy ingeniero físico (Universidad Andrés Bello). Me muevo entre tres mundos: *
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/xSempiternus/BermGuard"><img src="assets/card-bermguard.svg" alt="BermGuard AI"></a></td>
-<td width="50%"><a href="https://github.com/xSempiternus/Facial-Recognition-FACUP"><img src="assets/card-facup.svg" alt="FACUP Face ID"></a></td>
+<td width="50%"><a href="https://github.com/xSempiternus/BermGuard"><img src="assets/card-bermguard.svg" alt="BermGuard AI" width="420"></a></td>
+<td width="50%"><a href="https://github.com/xSempiternus/Facial-Recognition-FACUP"><img src="assets/card-facup.svg" alt="FACUP Face ID" width="420"></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://www.bnsolutions.cl/filtraciones-tuneles"><img src="assets/card-tuneles.svg" alt="Filtraciones en túneles con YOLO"></a></td>
-<td width="50%"><a href="https://github.com/4mser/nova"><img src="assets/card-nova.svg" alt="NOVA, ganador NASA Space Apps 2026"></a></td>
+<td width="50%"><a href="https://www.bnsolutions.cl/filtraciones-tuneles"><img src="assets/card-tuneles.svg" alt="Filtraciones en túneles con YOLO" width="420"></a></td>
+<td width="50%"><a href="https://github.com/4mser/nova"><img src="assets/card-nova.svg" alt="NOVA, ganador NASA Space Apps 2026" width="420"></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://fidelya.cl"><img src="assets/card-fidelya.svg" alt="Fidelya"></a></td>
-<td width="50%"><a href="https://github.com/xSempiternus/widget-git"><img src="assets/card-brew.svg" alt="Brew"></a></td>
+<td width="50%"><a href="https://fidelya.cl"><img src="assets/card-fidelya.svg" alt="Fidelya" width="420"></a></td>
+<td width="50%"><a href="https://github.com/xSempiternus/widget-git"><img src="assets/card-brew.svg" alt="Brew" width="420"></a></td>
 </tr>
 </table>
 
@@ -58,7 +58,7 @@ Los túneles viales urbanos se filtran, y hoy se inspeccionan a ojo. Si el túne
 <table>
 <tr>
 <td width="55%" align="center"><img src="assets/tuneles-deteccion.gif" alt="El modelo marca filtraciones sobre video de un túnel" width="100%"><br><sub>Detección sobre video real (vehículos difuminados y señalética recortada)</sub></td>
-<td width="45%" align="center"><img src="assets/tuneles-severidad.svg" alt="Detecciones por tramo según severidad" width="100%"><br><sub>4.252 detecciones brutas en 4 tramos</sub></td>
+<td width="45%" align="center"><img src="assets/tuneles-severidad.svg" alt="Detecciones por tramo según severidad" width="420"><br><sub>4.252 detecciones brutas en 4 tramos</sub></td>
 </tr>
 </table>
 
