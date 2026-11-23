@@ -18,6 +18,8 @@ Soy ingeniero físico (Universidad Andrés Bello). Mi especialidad une dos área
 
 🏆 En noviembre de 2026 gané el **NASA International Space Apps Challenge** con [NOVA](https://github.com/4mser/nova), un médico de a bordo para astronautas.
 
+<p align="center"><img src="assets/sello-xsempiternus.webp" alt="Mi sello: un monito con boina corre, salta un portal y escribe «xSempiternus» con un pincel de luz" width="760"></p>
+
 ## Lo que hago
 
 <table>
@@ -52,9 +54,7 @@ Soy ingeniero físico (Universidad Andrés Bello). Mi especialidad une dos área
 
 ### Nous Diseño · sitio web
 
-<p align="center"><img src="assets/nous-web.gif" alt="Intro del sitio de Nous Diseño: un monito con boina corre, salta un portal y escribe «Nous Diseño» con un pincel" width="640"></p>
-
-Portafolio de un estudio de diseño. La intro es un monito con boina que corre, salta un portal y escribe el nombre del estudio con un pincel que chorrea pintura. Está dibujado en Canvas 2D, sin librerías. El sitio es estático (HTML, CSS y JS).
+Portafolio de un estudio de diseño, hecho como sitio estático (HTML, CSS y JS). Diseñé y animé su intro: un monito dibujado en Canvas 2D, sin librerías, que se volvió mi sello (arriba).
 
 **Enlaces:** [ver el sitio completo](https://claude.ai/artifact/DWiBWbY1ojXrigWNtpdx4o) (versión de muestra). El dominio propio y el repositorio aún no están publicados.
 
