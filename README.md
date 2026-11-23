@@ -39,6 +39,10 @@ Soy ingeniero físico (Universidad Andrés Bello). Me muevo entre tres mundos: *
 <td width="50%"><a href="https://fidelya.cl"><img src="assets/card-fidelya.svg" alt="Fidelya" width="420"></a></td>
 <td width="50%"><a href="https://github.com/xSempiternus/widget-git"><img src="assets/card-brew.svg" alt="Brew" width="420"></a></td>
 </tr>
+<tr>
+<td width="50%"><img src="assets/card-nous.svg" alt="Nous Diseño: portafolio con intro animada" width="420"></td>
+<td width="50%" align="center"><img src="assets/nous-monito.gif" alt="Monito con boina que corre, salta un portal y escribe Nous Diseño con un pincel" width="420"><br><sub>Intro del sitio: el monito escribe «Nous Diseño» con pincel</sub></td>
+</tr>
 </table>
 
 > **FACUP Face ID** y **BermGuard** son los proyectos donde más medí. FACUP: 97.5% de acierto sin una sola falsa identificación en 735 verificaciones, comparando 4 modelos y 3 detectores. **BermGuard** destaca por cómo está medido: cifras con intervalos de confianza, umbral de operación explícito y decisiones corregidas con registro (ADR) cuando una medición mejor contradijo una anterior.
