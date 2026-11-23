@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/visor-proyectos.svg" alt="Visor que recorre mis proyectos: Nous Diseño, BermGuard, FACUP, NOVA, filtraciones en túneles y Fidelya" width="760">
+<img src="assets/visor-proyectos.svg" alt="Visor que recorre mis proyectos: Nous Diseño, BermGuard, FACUP, NOVA, filtraciones en túneles y Fidelya" width="860">
 
 # Nicolás Richardson
 
