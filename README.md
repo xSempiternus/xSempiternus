@@ -4,7 +4,7 @@
 
 # Nicolás Richardson
 
-**Ingeniero físico. Mido cosas con visión por computador y las cuento con diseño web.**
+**Ingeniero físico · finanzas e innovación tecnológica: modelos de riesgo, visión por computador, IA y software.**
 
 [B&N Solutions](https://www.bnsolutions.cl) · [Fidelya](https://fidelya.cl) · [LinkedIn](https://linkedin.com/in/nicolas-richardson-rojas) · [Hugging Face](https://huggingface.co/xSempiternus)
 
@@ -12,7 +12,7 @@
 
 ---
 
-Soy ingeniero físico (Universidad Andrés Bello). Entreno modelos de visión y de riesgo, y también hago la parte que se ve: sitios, animaciones y herramientas. Co-fundé **[Fidelya](https://fidelya.cl)**, donde soy CSO; trabajo en visión computacional y ML en **[B&N Solutions](https://www.bnsolutions.cl)** y como consultor de datos en **Management Solutions**.
+Soy ingeniero físico (Universidad Andrés Bello). Mi especialidad une dos áreas: **finanzas** y **innovación tecnológica**. En finanzas, valido modelos de riesgo de crédito (que pertenecen al área financiera) como consultor de datos en **Management Solutions**, con normativas como IFRS 17 y NCG 509 y estándares SASB. En tecnología, hago ciencia, software, visión por computador, machine learning y sistemas con LLMs, RAG y agentes de IA, en **[B&N Solutions](https://www.bnsolutions.cl)** y como co-fundador y CSO de **[Fidelya](https://fidelya.cl)**. También hago la parte que se ve: sitios, animación y video.
 
 🏆 En noviembre de 2026 gané el **NASA International Space Apps Challenge** con [NOVA](https://github.com/4mser/nova), un médico de a bordo para astronautas.
 
@@ -22,21 +22,22 @@ Soy ingeniero físico (Universidad Andrés Bello). Entreno modelos de visión y 
 <tr>
 <td width="50%" valign="top">
 
-### 🔬 Visión por computador y modelos
+### 🔬 Ciencia, visión por computador e IA
 
 - **Minería:** segmentar el pretil de seguridad de un botadero y vigilar la distancia entre equipos.
 - **Asistencia:** reconocimiento facial en escuelas de fútbol.
 - **Infraestructura:** filtraciones en túneles con YOLO sobre cámaras de seguridad.
 - **Salud:** parpadeo y fatiga con la cámara del teléfono.
-- **Banca:** validación de modelos de riesgo de crédito.
+- **LLMs y agentes:** RAG, MCP y modelos locales para retención de clientes.
 
 </td>
 <td width="50%" valign="top">
 
-### 🎨 Web, animación y producto
+### 💼 Finanzas, producto y web
 
+- **Finanzas:** validación independiente de modelos de riesgo de crédito en banca (metodología, desempeño y supuestos), cumplimiento IFRS 17 y NCG 509, reportes ESG bajo SASB.
 - **Sitios y animación** para estudios de diseño, como Nous Diseño.
-- **Fidelya:** fidelización con IA para locales gastronómicos.
+- **Fidelya:** plataforma SaaS con IA para locales gastronómicos.
 - **Videos** de producto y divulgación con AMBAR Studio.
 - **Mascotas y escenas 3D** en Blender.
 - **Divulgación científica** con simulaciones interactivas.
@@ -61,7 +62,7 @@ Portafolio de un estudio de diseño. La intro es un monito con boina que corre, 
 
 Pipeline modular de visión por computador para faenas a rajo abierto: segmenta el pretil de seguridad en botaderos y estima su altura respecto a la rasante, detecta CAEX y maquinaria de apoyo, y evalúa la proximidad entre equipos con luz adversa. Empaquetado en Docker. Los videos de la demo están generados con IA.
 
-Es donde más medí: cifras con intervalos de confianza, un umbral de operación explícito y decisiones corregidas con registro (ADR) cuando una medición mejor contradijo una anterior. El modelo COCO juntaba al CAEX y al bulldozer en una sola caja; el detector propio las separa.
+Detector YOLO11 con **recall de 0,88 para CAEX** en video no visto (IC 95%: 0,77 a 0,97) y 1,8 veces más rápido en GPU (15,0 contra 8,1 fps a 1280x720). Es donde más medí: cifras con intervalos de confianza, un umbral de operación explícito y decisiones corregidas con registro (ADR) cuando una medición mejor contradijo una anterior. El modelo COCO juntaba al CAEX y al bulldozer en una sola caja; el detector propio las separa.
 
 <img src="assets/bermguard-detector-propio.png" alt="BermGuard: el detector propio separa al CAEX y al bulldozer en dos cajas" width="389">
 
@@ -158,7 +159,7 @@ Tengo cuadernos de divulgación en preparación, aún sin publicar. Este es uno,
 |---|---|
 | **2023** | Práctica en el Instituto Milenio SAPHIR: detector de partículas alpha con fibras ópticas |
 | **2024** | Ingeniero de ML en VASCOLAB (YOLO para detectar filtraciones en túneles) y egreso de Ingeniería Física, UNAB |
-| **Oct 2025** | Co-fundador y CSO de Fidelya; consultor de datos en riesgo de crédito |
+| **Oct 2025** | Co-fundador y CSO de Fidelya; consultor de datos en Management Solutions (modelos de riesgo de crédito, IFRS 17, NCG 509, SASB) |
 | **2026** | Visión computacional y ML en B&N Solutions |
 | **Nov 2026** | 🏆 Ganador del NASA International Space Apps Challenge con NOVA |
 
@@ -169,7 +170,7 @@ Tengo cuadernos de divulgación en preparación, aún sin publicar. Este es uno,
 
 <br>
 
-`Python` `PyTorch` `OpenCV` `Hugging Face` `TensorFlow` `FastAPI` `Docker` `Next.js` `NestJS` `MongoDB` `Rust` `Blender` `Canvas`
+`Python` `PyTorch` `OpenCV` `YOLO` `LLMs` `RAG` `MCP` `Hugging Face` `TensorFlow` `FastAPI` `Docker` `Next.js` `NestJS` `MongoDB` `SQL` `Power BI` `Blender` `Canvas`
 
 | Repo | Qué es |
 |---|---|
