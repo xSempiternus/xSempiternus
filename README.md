@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/sello-xsempiternus.webp" alt="Mi sello: un monito con boina corre, salta un portal y escribe «xSempiternus» con un pincel de luz" width="860">
+
 <img src="assets/visor-proyectos.webp" alt="Visor que recorre mis proyectos con un video de cada uno: Nous Diseño, BermGuard, FACUP, NOVA, filtraciones en túneles y Fidelya" width="860">
 
 <sub><a href="assets/visor-proyectos.mp4">Ver el visor en video</a></sub>
@@ -17,8 +19,6 @@
 Soy ingeniero físico (Universidad Andrés Bello). Mi especialidad une dos áreas: **finanzas** y **innovación tecnológica**. En finanzas, valido modelos de riesgo de crédito (que pertenecen al área financiera) como consultor de datos en **Management Solutions**: trabajo con el cliente **Banco Santander** en validación de modelos de PD (probabilidad de default), stress test y requerimientos de la CMF, y en seguros con IFRS 17, NCG 509 y estándares SASB. En tecnología, hago ciencia, software, visión por computador, machine learning y sistemas con LLMs, RAG y agentes de IA, en **[B&N Solutions](https://www.bnsolutions.cl)** y como co-fundador y CSO de **[Fidelya](https://fidelya.cl)**. También hago la parte que se ve: sitios, animación y video.
 
 🏆 En noviembre de 2026 gané el **NASA International Space Apps Challenge** con [NOVA](https://github.com/4mser/nova), un médico de a bordo para astronautas.
-
-<p align="center"><img src="assets/sello-xsempiternus.webp" alt="Mi sello: un monito con boina corre, salta un portal y escribe «xSempiternus» con un pincel de luz" width="760"></p>
 
 ## Lo que hago
 
