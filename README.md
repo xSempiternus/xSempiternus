@@ -53,7 +53,7 @@ Soy ingeniero físico (Universidad Andrés Bello). Entreno modelos de visión y 
 
 Portafolio de un estudio de diseño. La intro es un monito con boina que corre, salta un portal y escribe el nombre del estudio con un pincel que chorrea pintura. Está dibujado en Canvas 2D, sin librerías. El sitio es estático (HTML, CSS y JS).
 
-**Enlaces:** el sitio aún no está publicado.
+**Enlaces:** [ver el sitio completo](https://claude.ai/artifact/DWiBWbY1ojXrigWNtpdx4o) (versión de muestra). El dominio propio y el repositorio aún no están publicados.
 
 ### BermGuard · minería
 
