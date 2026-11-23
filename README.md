@@ -84,9 +84,9 @@ Reconocimiento facial con bases de datos relacionales para llevar la asistencia 
 
 Médico de a bordo para astronautas, con guía de RCP en realidad aumentada. **Mi parte es el módulo de salud ocular**: mira los ojos de la tripulación con la cámara del teléfono. Parte del Face Landmarker de Google (MediaPipe, 478 puntos con iris).
 
-<img src="assets/nova-ocular-pasos.png" alt="Módulo de salud ocular: la cámara mira, mide el ojo, compara con tu normal y avisa" width="100%">
+<img src="assets/nova-ocular-grafito-pasos.png" alt="Módulo de salud ocular: la cámara mira, mide el ojo, compara con tu normal y avisa" width="100%">
 
-<img src="assets/nova-ocular-mediciones.png" alt="Cuatro mediciones del módulo ocular y qué tan sólidas son" width="100%">
+<img src="assets/nova-ocular-grafito-mediciones.png" alt="Cuatro mediciones del módulo ocular y qué tan sólidas son" width="100%">
 
 Lo que mide:
 
