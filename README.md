@@ -82,16 +82,19 @@ Reconocimiento facial con bases de datos relacionales para llevar la asistencia 
 
 <img src="assets/nova-ar-cpr.gif" alt="NOVA: guía de RCP con realidad aumentada" width="560">
 
-Médico de a bordo para astronautas, con guía de RCP en realidad aumentada. **Mi parte es el módulo de salud ocular**: mira los ojos de la tripulación con la cámara del teléfono. Parte del Face Landmarker de Google (MediaPipe, 478 puntos con iris) y mide:
+Médico de a bordo para astronautas, con guía de RCP en realidad aumentada. **Mi parte es el módulo de salud ocular**: mira los ojos de la tripulación con la cámara del teléfono. Parte del Face Landmarker de Google (MediaPipe, 478 puntos con iris).
+
+<img src="assets/nova-ocular-pasos.png" alt="Módulo de salud ocular: la cámara mira, mide el ojo, compara con tu normal y avisa" width="100%">
+
+<img src="assets/nova-ocular-mediciones.png" alt="Cuatro mediciones del módulo ocular y qué tan sólidas son" width="100%">
+
+Lo que mide:
 
 - la distancia margen-reflejo del párpado superior e inferior (MRD1 y MRD2, normalizada por el diámetro del iris),
 - cuántas veces y por cuánto tiempo parpadea la persona (parpadeo y PERCLOS),
 - todo contra su propia línea base, y con abstención cuando la calidad de la imagen no alcanza.
 
 Corre en CPU, con una mediana de ~8 ms por cuadro. Ahora lo estoy entrenando para detectar bostezos; esa parte es exploratoria. NOVA no es un dispositivo médico ni diagnostica: la salida es una alerta de seguimiento. El código de mi módulo está en un repositorio privado.
-
-<img src="assets/nova-ocular-pasos.png" alt="De la cámara a la alerta, en 4 pasos" width="100%">
-<img src="assets/nova-ocular-mediciones.png" alt="Cuatro mediciones y qué tan sólidas son" width="100%">
 
 **Enlaces:** [repositorio del equipo](https://github.com/4mser/nova)
 
