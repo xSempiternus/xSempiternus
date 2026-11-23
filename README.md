@@ -16,9 +16,9 @@
 
 ---
 
-Soy ingeniero físico (Universidad Andrés Bello). Mi especialidad une dos áreas: **finanzas** y **innovación tecnológica**. En finanzas, valido modelos de riesgo de crédito (que pertenecen al área financiera) como consultor de datos en **Management Solutions**: trabajo con el cliente **Banco Santander** en validación de modelos de PD (probabilidad de default), stress test y requerimientos de la CMF, y en seguros con IFRS 17, NCG 509 y estándares SASB. En tecnología, hago ciencia, software, visión por computador, machine learning y sistemas con LLMs, RAG y agentes de IA, en **[B&N Solutions](https://www.bnsolutions.cl)** y como co-fundador y CSO de **[Fidelya](https://fidelya.cl)**. También hago la parte que se ve: sitios, animación y video.
+Soy ingeniero físico (Universidad Andrés Bello). Mi especialidad une dos áreas: **finanzas** y **innovación tecnológica**. En finanzas, valido modelos de riesgo de crédito (que pertenecen al área financiera) como consultor de datos en **Management Solutions**: trabajé con el cliente **Banco Santander** en validación de modelos de PD (probabilidad de default), stress test y requerimientos de la CMF, y en seguros con IFRS 17, NCG 509 y estándares SASB. En tecnología, hago ciencia, software, visión por computador, machine learning y sistemas con LLMs, RAG y agentes de IA, en **[B&N Solutions](https://www.bnsolutions.cl)** y como co-fundador y CSO de **[Fidelya](https://fidelya.cl)**. También hago la parte que se ve: sitios, animación y video.
 
-🏆 En noviembre de 2026 gané el **NASA International Space Apps Challenge** con [NOVA](https://github.com/4mser/nova), un médico de a bordo para astronautas.
+🏆 En noviembre de 2026 gané el **NASA International Space Apps Challenge** con [NOVA](https://github.com/4mser/nova), un médico a bordo para astronautas.
 
 ## Lo que hago
 
