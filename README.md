@@ -2,9 +2,9 @@
 
 <img src="assets/sello-xsempiternus.webp" alt="Mi sello: un monito con boina corre, salta un portal y escribe «xSempiternus» con un pincel de luz" width="860">
 
-<img src="assets/visor-proyectos-v3.webp" alt="Visor que recorre mis proyectos con un video de cada uno: Nous Diseño, BermGuard, FACUP, NOVA, filtraciones en túneles y Fidelya" width="860">
+<img src="assets/visor-proyectos-v4.webp" alt="Visor que recorre mis proyectos con un video de cada uno: Nous Diseño, BermGuard, FACUP, NOVA, filtraciones en túneles y Fidelya" width="860">
 
-<sub><a href="assets/visor-proyectos-v3.mp4">Ver el visor en video</a></sub>
+<sub><a href="assets/visor-proyectos-v4.mp4">Ver el visor en video</a></sub>
 
 # Nicolás Richardson
 
@@ -70,9 +70,11 @@ Detector YOLO11 con **recall de 0,88 para CAEX** en video no visto (IC 95%: 0,77
 
 ### FACUP Face ID · asistencia
 
-<p align="center"><img src="assets/facup-demo.gif" alt="FACUP: panel del staff con datos de prueba" width="640"></p>
+<p align="center"><img src="assets/facup-registro.webp" alt="FACUP en acción: inscripción de una persona con la cámara en tres fotos guiadas, reconocimiento en vivo en el kiosko y panel del staff" width="760"></p>
 
-Reconocimiento facial con bases de datos relacionales para llevar la asistencia en escuelas de fútbol, desde la web. Comparé 4 modelos y 3 detectores en 735 verificaciones: **97,5% de acierto y ninguna falsa identificación**. El panel del staff de la demo usa una sede y datos de prueba.
+<p align="center"><sub><a href="assets/facup-registro.mp4">Ver el flujo completo en video</a></sub></p>
+
+Reconocimiento facial con bases de datos relacionales para llevar la asistencia en escuelas de fútbol, desde la web. Comparé 4 modelos y 3 detectores en 735 verificaciones: **97,5% de acierto y ninguna falsa identificación**. El video está grabado sobre la app real: primero el staff inscribe a una persona con tres fotos guiadas (de frente y a cada lado), después el kiosko la reconoce en vivo y marca su llegada, y al final se ve el panel del staff. Usa una sede de demostración con datos de prueba, y yo soy la persona de ejemplo.
 
 **Enlaces:** [repositorio](https://github.com/xSempiternus/Facial-Recognition-FACUP)
 
@@ -83,6 +85,10 @@ Reconocimiento facial con bases de datos relacionales para llevar la asistencia 
 <p align="center"><img src="assets/nova-ar-cpr.gif" alt="NOVA: guía de RCP con realidad aumentada" width="640"></p>
 
 Médico de a bordo para astronautas, con guía de RCP en realidad aumentada. **Mi parte es el módulo de salud ocular**: mira los ojos de la tripulación con la cámara del teléfono. Parte del Face Landmarker de Google (MediaPipe, 478 puntos con iris).
+
+<p align="center"><img src="assets/nova-ocular-demo.webp" alt="Módulo ocular de NOVA en acción sobre un video: 478 puntos de la cara, iris, contorno de los ojos, conteo de parpadeos y curva de apertura del ojo" width="760"></p>
+
+<p align="center"><sub>El módulo corriendo sobre un video mío, con el código real (parpadeos, apertura y párpados medidos cuadro a cuadro). <a href="assets/nova-ocular-demo.mp4">Ver en video</a></sub></p>
 
 <p align="center"><img src="assets/nova-ocular-grafito-pasos.png" alt="Módulo de salud ocular: la cámara mira, mide el ojo, compara con tu normal y avisa" width="100%"></p>
 
