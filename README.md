@@ -52,7 +52,7 @@ Soy ingeniero físico (Universidad Andrés Bello). Mi especialidad une dos área
 
 ### Nous Diseño · sitio web
 
-<img src="assets/nous-web.gif" alt="Intro del sitio de Nous Diseño: un monito con boina corre, salta un portal y escribe «Nous Diseño» con un pincel" width="560">
+<p align="center"><img src="assets/nous-web.gif" alt="Intro del sitio de Nous Diseño: un monito con boina corre, salta un portal y escribe «Nous Diseño» con un pincel" width="640"></p>
 
 Portafolio de un estudio de diseño. La intro es un monito con boina que corre, salta un portal y escribe el nombre del estudio con un pincel que chorrea pintura. Está dibujado en Canvas 2D, sin librerías. El sitio es estático (HTML, CSS y JS).
 
@@ -60,19 +60,19 @@ Portafolio de un estudio de diseño. La intro es un monito con boina que corre, 
 
 ### BermGuard · minería
 
-<img src="assets/bermguard-hero.gif" alt="BermGuard: pretil y proximidad entre equipos en un botadero" width="560">
+<p align="center"><img src="assets/bermguard-hero.gif" alt="BermGuard: pretil y proximidad entre equipos en un botadero" width="640"></p>
 
 Pipeline modular de visión por computador para faenas a rajo abierto: segmenta el pretil de seguridad en botaderos y estima su altura respecto a la rasante, detecta CAEX y maquinaria de apoyo, y evalúa la proximidad entre equipos con luz adversa. Empaquetado en Docker. Los videos de la demo están generados con IA.
 
 Detector YOLO11 con **recall de 0,88 para CAEX** en video no visto (IC 95%: 0,77 a 0,97) y 1,8 veces más rápido en GPU (15,0 contra 8,1 fps a 1280x720). Es donde más medí: cifras con intervalos de confianza, un umbral de operación explícito y decisiones corregidas con registro (ADR) cuando una medición mejor contradijo una anterior. El modelo COCO juntaba al CAEX y al bulldozer en una sola caja; el detector propio las separa.
 
-<img src="assets/bermguard-detector-propio.png" alt="BermGuard: el detector propio separa al CAEX y al bulldozer en dos cajas" width="389">
+<p align="center"><img src="assets/bermguard-detector-propio.png" alt="BermGuard: el detector propio separa al CAEX y al bulldozer en dos cajas" width="389"></p>
 
 **Enlaces:** [repositorio](https://github.com/xSempiternus/BermGuard)
 
 ### FACUP Face ID · asistencia
 
-<img src="assets/facup-demo.gif" alt="FACUP: panel del staff con datos de prueba" width="560">
+<p align="center"><img src="assets/facup-demo.gif" alt="FACUP: panel del staff con datos de prueba" width="640"></p>
 
 Reconocimiento facial con bases de datos relacionales para llevar la asistencia en escuelas de fútbol, desde la web. Comparé 4 modelos y 3 detectores en 735 verificaciones: **97,5% de acierto y ninguna falsa identificación**. El panel del staff de la demo usa una sede y datos de prueba.
 
@@ -80,13 +80,13 @@ Reconocimiento facial con bases de datos relacionales para llevar la asistencia 
 
 ### NOVA · ganador del NASA Space Apps 2026
 
-<img src="assets/nova-ar-cpr.gif" alt="NOVA: guía de RCP con realidad aumentada" width="560">
+<p align="center"><img src="assets/nova-ar-cpr.gif" alt="NOVA: guía de RCP con realidad aumentada" width="640"></p>
 
 Médico de a bordo para astronautas, con guía de RCP en realidad aumentada. **Mi parte es el módulo de salud ocular**: mira los ojos de la tripulación con la cámara del teléfono. Parte del Face Landmarker de Google (MediaPipe, 478 puntos con iris).
 
-<img src="assets/nova-ocular-grafito-pasos.png" alt="Módulo de salud ocular: la cámara mira, mide el ojo, compara con tu normal y avisa" width="100%">
+<p align="center"><img src="assets/nova-ocular-grafito-pasos.png" alt="Módulo de salud ocular: la cámara mira, mide el ojo, compara con tu normal y avisa" width="100%"></p>
 
-<img src="assets/nova-ocular-grafito-mediciones.png" alt="Cuatro mediciones del módulo ocular y qué tan sólidas son" width="100%">
+<p align="center"><img src="assets/nova-ocular-grafito-mediciones.png" alt="Cuatro mediciones del módulo ocular y qué tan sólidas son" width="100%"></p>
 
 Lo que mide:
 
@@ -100,11 +100,11 @@ Corre en CPU, con una mediana de ~8 ms por cuadro. Ahora lo estoy entrenando par
 
 ### Filtraciones en túneles · YOLO
 
-<img src="assets/tuneles-deteccion.gif" alt="El modelo marca filtraciones sobre video de un túnel" width="560">
+<p align="center"><img src="assets/tuneles-deteccion.gif" alt="El modelo marca filtraciones sobre video de un túnel" width="640"></p>
 
 Los túneles viales urbanos se filtran, y hoy se inspeccionan a ojo. Si ya hay cámaras grabando las 24 horas, ¿por qué no enseñarles a mirar también las filtraciones? Entrené un detector YOLO con ejemplos etiquetados a mano, en tres niveles de severidad (leve, severa y crítica), y lo corrí sobre video real de cuatro tramos, uno de cada cinco cuadros. El resultado es una lista ordenable con el minuto, la posición, la severidad y la confianza de cada detección. En el video, los vehículos están difuminados y la señalética recortada.
 
-<img src="assets/tuneles-severidad.svg" alt="Detecciones por tramo según severidad" width="420">
+<p align="center"><img src="assets/tuneles-severidad.svg" alt="Detecciones por tramo según severidad" width="420"></p>
 
 - **76%** de las detecciones son humedad leve, **23%** severas y **menos del 1%** críticas.
 - Es un prototipo de investigación: las detecciones son brutas y **aún no se validan contra un conteo humano**, así que no declaro una precisión. Una misma filtración puede aparecer en varios cuadros.
@@ -113,7 +113,7 @@ Los túneles viales urbanos se filtran, y hoy se inspeccionan a ojo. Si ya hay c
 
 ### Fidelya · fidelización e inteligencia de clientes
 
-<img src="assets/fidelya-app.gif" alt="App de meseros de Fidelya: mesas, llamado del cliente y perfil del socio" width="280">
+<p align="center"><img src="assets/fidelya-app.gif" alt="App de meseros de Fidelya: mesas, llamado del cliente y perfil del socio" width="280"></p>
 
 Co-fundé Fidelya y soy su CSO. Es una plataforma para locales gastronómicos: carta con QR, pedido desde la mesa, club de puntos, app para el equipo de sala y **AURA**, que recomienda a cada cliente lo que le gusta y trae de vuelta a los que dejaron de venir. Lo que diseñé y construí:
 
@@ -138,7 +138,7 @@ Widget de VSCode tipo cafetería para hacer check, pull, commit y push de git en
 
 Tengo cuadernos de divulgación en preparación, aún sin publicar. Este es uno, con tres experimentos interactivos. En el primero, un gas simulado molécula por molécula llena un frasco y, al invertir el tiempo, cada molécula recorre su camino al revés y el gas vuelve al cuello, mientras la curva de entropía sube y baja.
 
-<img src="assets/entropia-frasco.gif" alt="Experimento del frasco: el gas se esparce, se invierte el tiempo y la entropía baja" width="70%">
+<p align="center"><img src="assets/entropia-frasco.gif" alt="Experimento del frasco: el gas se esparce, se invierte el tiempo y la entropía baja" width="70%"></p>
 
 <sub>Borrador · simulación basada en <a href="https://github.com/4mser/bn-lab-simulations">BN Lab Simulations</a> (MIT)</sub>
 
@@ -149,7 +149,7 @@ Tengo cuadernos de divulgación en preparación, aún sin publicar. Este es uno,
 
 <br>
 
-<img src="assets/bermguard-detector-propio.png" alt="BermGuard: el detector propio separa al CAEX y al bulldozer en dos cajas" width="389">
+<p align="center"><img src="assets/bermguard-detector-propio.png" alt="BermGuard: el detector propio separa al CAEX y al bulldozer en dos cajas" width="389"></p>
 
 <sub>Dos máquinas, dos cajas. El modelo COCO las juntaba en una.</sub>
 
