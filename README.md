@@ -49,44 +49,18 @@ Soy ingeniero físico (Universidad Andrés Bello). Entreno modelos de visión y 
 
 ## Proyectos
 
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-<img src="assets/nous-monito.gif" alt="Monito escribiendo Nous Diseño con pincel" width="100%"><br>
-<b>Nous Diseño</b> · sitio web<br>
-<sub>Portafolio de un estudio de diseño, con la intro animada del monito. HTML, JS y Canvas 2D, sin librerías.</sub>
-</td>
-<td width="50%" align="center" valign="top">
-<a href="https://github.com/xSempiternus/BermGuard"><img src="assets/bermguard-hero.gif" alt="BermGuard: pretil y proximidad entre equipos" width="100%"></a><br>
-<b><a href="https://github.com/xSempiternus/BermGuard">BermGuard</a></b> · minería<br>
-<sub>Segmenta el pretil, detecta CAEX y maquinaria, y evalúa la proximidad entre equipos. Docker. Videos generados con IA.</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-<a href="https://github.com/xSempiternus/Facial-Recognition-FACUP"><img src="assets/facup-demo.gif" alt="FACUP: panel del staff" width="100%"></a><br>
-<b><a href="https://github.com/xSempiternus/Facial-Recognition-FACUP">FACUP Face ID</a></b> · asistencia<br>
-<sub>97,5% de acierto y cero falsas identificaciones en 735 verificaciones, comparando 4 modelos y 3 detectores. Datos de prueba.</sub>
-</td>
-<td width="50%" align="center" valign="top">
-<a href="https://github.com/4mser/nova"><img src="assets/nova-ar-cpr.gif" alt="NOVA: guía de RCP con realidad aumentada" width="100%"></a><br>
-<b><a href="https://github.com/4mser/nova">NOVA</a></b> · ganador NASA Space Apps 2026<br>
-<sub>Médico de a bordo para astronautas. Mi parte: el módulo de salud ocular (más abajo).</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-<a href="https://www.bnsolutions.cl/filtraciones-tuneles"><img src="assets/tuneles-deteccion.gif" alt="Detección de filtraciones en un túnel" width="100%"></a><br>
-<b><a href="https://www.bnsolutions.cl/filtraciones-tuneles">Filtraciones en túneles</a></b> · YOLO<br>
-<sub>El modelo marca filtraciones sobre video real. Vehículos difuminados y señalética recortada.</sub>
-</td>
-<td width="50%" align="center" valign="top">
-<a href="https://fidelya.cl"><img src="assets/fidelya-app.gif" alt="App de meseros de Fidelya" width="60%"></a><br>
-<b><a href="https://fidelya.cl">Fidelya</a></b> · retail y gastronomía<br>
-<sub>Carta con QR, club de puntos, app para el equipo de sala y AURA, que recomienda y recupera clientes.</sub>
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="assets/visor-proyectos.svg" alt="Visor que recorre mis proyectos: Nous Diseño, BermGuard, FACUP, NOVA, filtraciones en túneles y Fidelya" width="760">
+</div>
+
+<br>
+
+- **Nous Diseño** · sitio web con la intro animada del monito (la de arriba).
+- **[BermGuard](https://github.com/xSempiternus/BermGuard)** · pretil y proximidad entre equipos en minería. Docker. Videos generados con IA.
+- **[FACUP Face ID](https://github.com/xSempiternus/Facial-Recognition-FACUP)** · asistencia en escuelas de fútbol, con datos de prueba.
+- **[NOVA](https://github.com/4mser/nova)** · ganador NASA Space Apps 2026. Mi parte: salud ocular, más abajo.
+- **[Filtraciones en túneles](https://www.bnsolutions.cl/filtraciones-tuneles)** · YOLO sobre video real. Vehículos difuminados y señalética recortada.
+- **[Fidelya](https://fidelya.cl)** · carta con QR, club de puntos, app para el equipo de sala y AURA.
 
 > **FACUP** y **BermGuard** son donde más medí. En BermGuard hay cifras con intervalos de confianza, un umbral de operación explícito y decisiones corregidas con registro (ADR) cuando una medición mejor contradijo una anterior.
 
