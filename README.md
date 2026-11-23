@@ -2,9 +2,9 @@
 
 <img src="assets/sello-xsempiternus.webp" alt="Mi sello: un monito con boina corre, salta un portal y escribe «xSempiternus» con un pincel de luz" width="860">
 
-<img src="assets/visor-proyectos-v2.webp" alt="Visor que recorre mis proyectos con un video de cada uno: Nous Diseño, BermGuard, FACUP, NOVA, filtraciones en túneles y Fidelya" width="860">
+<img src="assets/visor-proyectos-v3.webp" alt="Visor que recorre mis proyectos con un video de cada uno: Nous Diseño, BermGuard, FACUP, NOVA, filtraciones en túneles y Fidelya" width="860">
 
-<sub><a href="assets/visor-proyectos-v2.mp4">Ver el visor en video</a></sub>
+<sub><a href="assets/visor-proyectos-v3.mp4">Ver el visor en video</a></sub>
 
 # Nicolás Richardson
 
@@ -117,7 +117,7 @@ Los túneles viales urbanos se filtran, y hoy se inspeccionan a ojo. Si ya hay c
 
 ### Fidelya · fidelización e inteligencia de clientes
 
-<p align="center"><img src="assets/fidelya-app.gif" alt="App de meseros de Fidelya: mesas, llamado del cliente y perfil del socio" width="280"></p>
+<p align="center"><img src="assets/fidelya-carta.webp" alt="Carta digital de Fidelya en el teléfono: inicio con menús, carta de tragos con promociones y detalle de un producto" width="760"></p>
 
 Co-fundé Fidelya y soy su CSO. Es una plataforma para locales gastronómicos: carta con QR, pedido desde la mesa, club de puntos, app para el equipo de sala y **AURA**, que recomienda a cada cliente lo que le gusta y trae de vuelta a los que dejaron de venir. Lo que diseñé y construí:
 
@@ -127,7 +127,7 @@ Co-fundé Fidelya y soy su CSO. Es una plataforma para locales gastronómicos: c
 - **Módulo de validación y QA** para monitorear sesiones y errores, y un generador de propuestas comerciales por rubro.
 - **Mascota 3D en Blender** y videos promocionales con AMBAR Studio.
 
-**Enlaces:** [fidelya.cl](https://fidelya.cl)
+**Enlaces:** [fidelya.cl](https://fidelya.cl) · [carta digital de demostración](https://demo.fidelya.cl)
 
 ---
 
@@ -139,7 +139,9 @@ Widget de VSCode tipo cafetería para hacer check, pull, commit y push de git en
 
 ### Nous Diseño · sitio web
 
-Portafolio de un estudio de diseño, hecho como sitio estático (HTML, CSS y JS). Diseñé y animé su intro: un monito dibujado en Canvas 2D, sin librerías, que se volvió mi sello (arriba).
+<p align="center"><img src="assets/nous-recorrido.webp" alt="Recorrido por el sitio de Nous Diseño: portada, trabajos, áreas, nosotros y clientes" width="760"></p>
+
+Portafolio de un estudio de diseño editorial, gráfico y de imagen corporativa, hecho como sitio estático (HTML, CSS y JS): portada, galería de trabajos filtrable, áreas, nosotros y clientes. El monito con boina que animé para su intro se volvió mi sello (arriba).
 
 **Enlaces:** [ver el sitio completo](https://claude.ai/artifact/DWiBWbY1ojXrigWNtpdx4o) (versión de muestra). El dominio propio y el repositorio aún no están publicados.
 
