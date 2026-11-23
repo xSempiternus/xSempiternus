@@ -1,81 +1,116 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Nicolás Richardson · xSempiternus" width="100%">
+<img src="assets/nous-web.gif" alt="Intro del sitio de Nous Diseño: un monito con boina corre, salta un portal y escribe «Nous Diseño» con un pincel" width="640">
 
-<img src="assets/marquee.svg" alt="Tecnologías: Python, PyTorch, OpenCV, Hugging Face, TensorFlow, FastAPI, Docker, Next.js, Rust y más" width="100%">
+<sub>La intro de la página de <b>Nous Diseño</b>: un monito con boina que escribe el nombre del estudio con un pincel. La dibujé en Canvas, sin librerías.</sub>
 
-**Física aplicada a productos que se pueden medir: visión por computador, modelos de riesgo y software que llega a producción.**
+# Nicolás Richardson
+
+**Ingeniero físico. Mido cosas con visión por computador y las cuento con diseño web.**
+
+[B&N Solutions](https://www.bnsolutions.cl) · [Fidelya](https://fidelya.cl) · [LinkedIn](https://linkedin.com/in/nicolas-richardson-rojas) · [Hugging Face](https://huggingface.co/xSempiternus)
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="">
+---
 
-## Qué hago
+Soy ingeniero físico (Universidad Andrés Bello). Entreno modelos de visión y de riesgo, y también hago la parte que se ve: sitios, animaciones y herramientas. Co-fundé **[Fidelya](https://fidelya.cl)**, donde soy CSO; trabajo en visión computacional y ML en **[B&N Solutions](https://www.bnsolutions.cl)** y como consultor de datos en **Management Solutions**.
 
-Soy ingeniero físico (Universidad Andrés Bello). Me muevo entre tres mundos: **modelar** (ML, visión, estadística), **validar** (riesgo de crédito en banca) y **construir** (backend, web y herramientas). Co-fundé **[Fidelya](https://fidelya.cl)**, donde soy CSO; trabajo en visión computacional y ML en **[B&N Solutions](https://www.bnsolutions.cl)**, una consultora tecnológica, y como consultor de financiero en **Management Solutions**.
+🏆 En noviembre de 2026 gané el **NASA International Space Apps Challenge** con [NOVA](https://github.com/4mser/nova), un médico de a bordo para astronautas.
 
-| | |
-|---|---|
-| 🔬 **Ciencia** | Visión por computador y ML aplicados a minería, asistencia y salud |
-| 🏆 **Premio** | Ganador del **NASA International Space Apps Challenge 2026** con [NOVA](https://github.com/4mser/nova), un médico de a bordo para astronautas |
-| 🏗️ **Infraestructura** | Visión por computador para inspeccionar túneles: detección de filtraciones con YOLO |
-| 🏦 **Riesgo** | Validación de modelos de riesgo de crédito como consultor |
-| 🚀 **Producto** | Fidelya: fidelización y retención con IA para locales físicos |
+## Lo que hago
 
-<img src="assets/divider.svg" width="100%" alt="">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 Visión por computador y modelos
+
+- **Minería:** segmentar el pretil de seguridad de un botadero y vigilar la distancia entre equipos.
+- **Asistencia:** reconocimiento facial en escuelas de fútbol.
+- **Infraestructura:** filtraciones en túneles con YOLO sobre cámaras de seguridad.
+- **Salud:** parpadeo y fatiga con la cámara del teléfono.
+- **Banca:** validación de modelos de riesgo de crédito.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Web, animación y producto
+
+- **Sitios y animación** para estudios de diseño, como Nous Diseño.
+- **Fidelya:** fidelización con IA para locales gastronómicos.
+- **Videos** de producto y divulgación con AMBAR Studio.
+- **Mascotas y escenas 3D** en Blender.
+- **Divulgación científica** con simulaciones interactivas.
+
+</td>
+</tr>
+</table>
 
 ## Proyectos
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/xSempiternus/BermGuard"><img src="assets/card-bermguard.svg" alt="BermGuard AI" width="420"></a></td>
-<td width="50%"><a href="https://github.com/xSempiternus/Facial-Recognition-FACUP"><img src="assets/card-facup.svg" alt="FACUP Face ID" width="420"></a></td>
+<td width="50%" align="center" valign="top">
+<img src="assets/nous-monito.gif" alt="Monito escribiendo Nous Diseño con pincel" width="100%"><br>
+<b>Nous Diseño</b> · sitio web<br>
+<sub>Portafolio de un estudio de diseño, con la intro animada del monito. HTML, JS y Canvas 2D, sin librerías.</sub>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/xSempiternus/BermGuard"><img src="assets/bermguard-hero.gif" alt="BermGuard: pretil y proximidad entre equipos" width="100%"></a><br>
+<b><a href="https://github.com/xSempiternus/BermGuard">BermGuard</a></b> · minería<br>
+<sub>Segmenta el pretil, detecta CAEX y maquinaria, y evalúa la proximidad entre equipos. Docker. Videos generados con IA.</sub>
+</td>
 </tr>
 <tr>
-<td width="50%"><a href="https://www.bnsolutions.cl/filtraciones-tuneles"><img src="assets/card-tuneles.svg" alt="Filtraciones en túneles con YOLO" width="420"></a></td>
-<td width="50%"><a href="https://github.com/4mser/nova"><img src="assets/card-nova.svg" alt="NOVA, ganador NASA Space Apps 2026" width="420"></a></td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/xSempiternus/Facial-Recognition-FACUP"><img src="assets/facup-demo.gif" alt="FACUP: panel del staff" width="100%"></a><br>
+<b><a href="https://github.com/xSempiternus/Facial-Recognition-FACUP">FACUP Face ID</a></b> · asistencia<br>
+<sub>97,5% de acierto y cero falsas identificaciones en 735 verificaciones, comparando 4 modelos y 3 detectores. Datos de prueba.</sub>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/4mser/nova"><img src="assets/nova-ar-cpr.gif" alt="NOVA: guía de RCP con realidad aumentada" width="100%"></a><br>
+<b><a href="https://github.com/4mser/nova">NOVA</a></b> · ganador NASA Space Apps 2026<br>
+<sub>Médico de a bordo para astronautas. Mi parte: el módulo de salud ocular (más abajo).</sub>
+</td>
 </tr>
 <tr>
-<td width="50%"><a href="https://fidelya.cl"><img src="assets/card-fidelya.svg" alt="Fidelya" width="420"></a></td>
-<td width="50%"><a href="https://github.com/xSempiternus/widget-git"><img src="assets/card-brew.svg" alt="Brew" width="420"></a></td>
-</tr>
-<tr>
-<td width="50%"><img src="assets/card-nous.svg" alt="Nous Diseño: portafolio con intro animada" width="420"></td>
-<td width="50%" align="center"><img src="assets/nous-monito.gif" alt="Monito con boina que corre, salta un portal y escribe Nous Diseño con un pincel" width="420"><br><sub>Intro del sitio: el monito escribe «Nous Diseño» con pincel</sub></td>
+<td width="50%" align="center" valign="top">
+<a href="https://www.bnsolutions.cl/filtraciones-tuneles"><img src="assets/tuneles-deteccion.gif" alt="Detección de filtraciones en un túnel" width="100%"></a><br>
+<b><a href="https://www.bnsolutions.cl/filtraciones-tuneles">Filtraciones en túneles</a></b> · YOLO<br>
+<sub>El modelo marca filtraciones sobre video real. Vehículos difuminados y señalética recortada.</sub>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://fidelya.cl"><img src="assets/fidelya-app.gif" alt="App de meseros de Fidelya" width="60%"></a><br>
+<b><a href="https://fidelya.cl">Fidelya</a></b> · retail y gastronomía<br>
+<sub>Carta con QR, club de puntos, app para el equipo de sala y AURA, que recomienda y recupera clientes.</sub>
+</td>
 </tr>
 </table>
 
-> **FACUP Face ID** y **BermGuard** son los proyectos donde más medí. FACUP: 97.5% de acierto sin una sola falsa identificación en 735 verificaciones, comparando 4 modelos y 3 detectores. **BermGuard** destaca por cómo está medido: cifras con intervalos de confianza, umbral de operación explícito y decisiones corregidas con registro (ADR) cuando una medición mejor contradijo una anterior.
+> **FACUP** y **BermGuard** son donde más medí. En BermGuard hay cifras con intervalos de confianza, un umbral de operación explícito y decisiones corregidas con registro (ADR) cuando una medición mejor contradijo una anterior.
 
-<img src="assets/divider.svg" width="100%" alt="">
+## Con más detalle
 
-## Filtraciones en túneles: YOLO sobre cámaras de seguridad
+<details>
+<summary><b>Filtraciones en túneles: YOLO sobre cámaras de seguridad</b></summary>
 
-Los túneles viales urbanos se filtran, y hoy se inspeccionan a ojo. Si el túnel ya tiene cámaras grabando las 24 horas, ¿por qué no enseñarles a mirar también las filtraciones? Entrené un detector YOLO con ejemplos etiquetados a mano, en tres niveles de severidad (leve, severa y crítica), y lo corrí sobre video real de cuatro tramos de túnel, uno de cada cinco cuadros. El resultado ya no es horas de video: es una lista ordenable con el minuto, la posición, la severidad y la confianza de cada detección.
+<br>
 
-<table>
-<tr>
-<td width="55%" align="center"><img src="assets/tuneles-deteccion.gif" alt="El modelo marca filtraciones sobre video de un túnel" width="100%"><br><sub>Detección sobre video real (vehículos difuminados y señalética recortada)</sub></td>
-<td width="45%" align="center"><img src="assets/tuneles-severidad.svg" alt="Detecciones por tramo según severidad" width="420"><br><sub>4.252 detecciones brutas en 4 tramos</sub></td>
-</tr>
-</table>
+Los túneles viales urbanos se filtran, y hoy se inspeccionan a ojo. Si ya hay cámaras grabando las 24 horas, ¿por qué no enseñarles a mirar también las filtraciones? Entrené un detector YOLO con ejemplos etiquetados a mano, en tres niveles de severidad (leve, severa y crítica), y lo corrí sobre video real de cuatro tramos, uno de cada cinco cuadros. El resultado es una lista ordenable con el minuto, la posición, la severidad y la confianza de cada detección.
 
-- **76%** de las detecciones son humedad leve, **23%** severas y **menos del 1%** críticas: el filtro automático deja a la vista lo que un equipo de mantención debería revisar primero.
+<img src="assets/tuneles-severidad.svg" alt="Detecciones por tramo según severidad" width="420">
+
+- **76%** de las detecciones son humedad leve, **23%** severas y **menos del 1%** críticas.
 - Es un prototipo de investigación: las detecciones son brutas y **aún no se validan contra un conteo humano**, así que no declaro una precisión. Una misma filtración puede aparecer en varios cuadros.
-- Lo escribí como artículo de divulgación en B&N Solutions: [Detección de filtraciones en túneles con YOLO](https://www.bnsolutions.cl/filtraciones-tuneles).
+- Artículo de divulgación: [Detección de filtraciones en túneles con YOLO](https://www.bnsolutions.cl/filtraciones-tuneles).
 
-<img src="assets/divider.svg" width="100%" alt="">
+</details>
 
-## Fidelya: fidelización e inteligencia de clientes
+<details>
+<summary><b>Fidelya: lo que diseñé y construí como CSO</b></summary>
 
-Co-fundé **[Fidelya](https://fidelya.cl)** y soy su CSO. Es una plataforma para locales gastronómicos: carta con QR, pedido desde la mesa, club de puntos, app para el equipo de sala y **AURA**, que recomienda a cada cliente lo que le gusta y trae de vuelta a los que dejaron de venir.
-
-<table>
-<tr>
-<td width="32%" align="center" valign="top"><img src="assets/fidelya-app.gif" alt="App de meseros de Fidelya: mesas, llamado del cliente y perfil del socio" width="280"><br><sub>App de meseros (<a href="https://fidelya.cl">fidelya.cl</a>)</sub></td>
-<td width="68%" valign="top">
-
-**Lo que diseñé y construí como CSO**
+<br>
 
 - **AURA Analytics:** un sistema MCP sobre LLMs locales (Ollama) que detecta clientes en riesgo de abandono y sugiere campañas.
 - **Chatbot de postventa con RAG** para los dueños de locales.
@@ -83,47 +118,54 @@ Co-fundé **[Fidelya](https://fidelya.cl)** y soy su CSO. Es una plataforma para
 - **Módulo de validación y QA** para monitorear sesiones y errores, y un generador de propuestas comerciales por rubro.
 - **Mascota 3D en Blender** y videos promocionales con AMBAR Studio.
 
-</td>
-</tr>
-</table>
+</details>
 
-<img src="assets/divider.svg" width="100%" alt="">
+<details>
+<summary><b>NOVA: salud ocular con visión por computador</b></summary>
 
-## En acción
-
-<table>
-<tr>
-<td width="50%" align="center"><img src="assets/bermguard-hero.gif" alt="BermGuard: pretil y proximidad entre equipos en un botadero" width="100%"><br><sub><b>BermGuard</b> · pretil y proximidad entre equipos (videos generados con IA)</sub></td>
-<td width="50%" align="center"><img src="assets/facup-demo.gif" alt="FACUP: panel del staff con datos de prueba" width="100%"><br><sub><b>FACUP</b> · panel del staff (sede demo, datos de prueba)</sub></td>
-</tr>
-<tr>
-<td width="50%" align="center"><img src="assets/nova-ar-cpr.gif" alt="NOVA: guía de RCP con realidad aumentada" width="100%"><br><sub><b>NOVA</b> · guía de RCP con realidad aumentada</sub></td>
-<td width="50%" align="center"><img src="assets/bermguard-detector-propio.png" alt="BermGuard: el detector propio separa al CAEX y al bulldozer en dos cajas" width="389"><br><sub><b>BermGuard</b> · detector propio: dos máquinas, dos cajas (el modelo COCO las juntaba en una)</sub></td>
-</tr>
-</table>
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-## Mi parte en NOVA: salud ocular con visión por computador
+<br>
 
 Diseñé el módulo que mira los ojos de la tripulación con la cámara del teléfono. Parte del Face Landmarker de Google (MediaPipe, 478 puntos con iris) y mide:
 
-- la distancia margen-reflejo del párpado superior e inferior (MRD1 y MRD2, en versión normalizada por el diámetro del iris),
+- la distancia margen-reflejo del párpado superior e inferior (MRD1 y MRD2, normalizada por el diámetro del iris),
 - cuántas veces y por cuánto tiempo parpadea la persona (parpadeo y PERCLOS),
 - todo contra su propia línea base, y con abstención cuando la calidad de la imagen no alcanza.
 
 Corre en CPU, con una mediana de ~8 ms por cuadro. Ahora lo estoy entrenando para detectar bostezos; esa parte es exploratoria. NOVA no es un dispositivo médico ni diagnostica: la salida es una alerta de seguimiento. El código está en un repositorio privado.
 
-<table>
-<tr>
-<td width="50%"><img src="assets/nova-ocular-pasos.png" alt="De la cámara a la alerta, en 4 pasos" width="100%"></td>
-<td width="50%"><img src="assets/nova-ocular-mediciones.png" alt="Cuatro mediciones y qué tan sólidas son" width="100%"></td>
-</tr>
-</table>
+<img src="assets/nova-ocular-pasos.png" alt="De la cámara a la alerta, en 4 pasos" width="100%">
+<img src="assets/nova-ocular-mediciones.png" alt="Cuatro mediciones y qué tan sólidas son" width="100%">
 
-<img src="assets/divider.svg" width="100%" alt="">
+</details>
 
-## Trayectoria
+<details>
+<summary><b>Divulgación: «La flecha del tiempo»</b></summary>
+
+<br>
+
+Tengo cuadernos de divulgación en preparación, aún sin publicar. Este es uno, con tres experimentos interactivos. En el primero, un gas simulado molécula por molécula llena un frasco y, al invertir el tiempo, cada molécula recorre su camino al revés y el gas vuelve al cuello, mientras la curva de entropía sube y baja.
+
+<img src="assets/entropia-frasco.gif" alt="Experimento del frasco: el gas se esparce, se invierte el tiempo y la entropía baja" width="70%">
+
+<sub>Borrador · simulación basada en <a href="https://github.com/4mser/bn-lab-simulations">BN Lab Simulations</a> (MIT)</sub>
+
+</details>
+
+<details>
+<summary><b>BermGuard: el detector propio</b></summary>
+
+<br>
+
+<img src="assets/bermguard-detector-propio.png" alt="BermGuard: el detector propio separa al CAEX y al bulldozer en dos cajas" width="389">
+
+<sub>Dos máquinas, dos cajas. El modelo COCO las juntaba en una.</sub>
+
+</details>
+
+<details>
+<summary><b>Trayectoria</b></summary>
+
+<br>
 
 | | |
 |---|---|
@@ -133,47 +175,14 @@ Corre en CPU, con una mediana de ~8 ms por cuadro. Ahora lo estoy entrenando par
 | **2026** | Visión computacional y ML en B&N Solutions |
 | **Nov 2026** | 🏆 Ganador del NASA International Space Apps Challenge con NOVA |
 
-<img src="assets/divider.svg" width="100%" alt="">
-
-## Divulgación
-
-Publiqué un artículo en [B&N Solutions](https://www.bnsolutions.cl/filtraciones-tuneles) sobre la detección de filtraciones en túneles. Tengo otros cuadernos de divulgación en preparación, aún sin publicar. Este es uno: **la flecha del tiempo**, con tres experimentos interactivos. En el primero, un gas simulado molécula por molécula llena un frasco y, al invertir el tiempo, cada molécula recorre su camino al revés y el gas vuelve al cuello, mientras la curva de entropía sube y baja.
-
-<div align="center">
-<img src="assets/entropia-frasco.gif" alt="Experimento del frasco: el gas se esparce, se invierte el tiempo y la entropía baja" width="70%">
-<br><sub>Borrador del cuaderno «La flecha del tiempo» · simulación basada en <a href="https://github.com/4mser/bn-lab-simulations">BN Lab Simulations</a> (MIT)</sub>
-</div>
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-## Stack
-
-<div align="center">
-<img src="assets/stack.svg" alt="Stack: ciencia, modelos e IA, backend y producto" width="100%">
-</div>
-
-## Cómo encaja todo
-
-```mermaid
-flowchart LR
-    F["Física y estadística"] --> M["Modelos<br/>ML · visión · riesgo"]
-    M --> B["BermGuard<br/>minería"]
-    M --> A["FACUP Face ID<br/>asistencia"]
-    M --> D["Fidelya · AURA<br/>retención"]
-    M --> N["NOVA<br/>salud a bordo"]
-    M --> E["Túneles<br/>inspección"]
-    T["Backend y herramientas<br/>FastAPI · Next.js · Docker"] --> B
-    T --> A
-    T --> D
-    T --> N
-    T --> E
-    T --> W["Brew<br/>git en VSCode"]
-```
+</details>
 
 <details>
-<summary><b>🧪 Laboratorio: análisis y experimentos</b></summary>
+<summary><b>Stack y laboratorio</b></summary>
 
 <br>
+
+`Python` `PyTorch` `OpenCV` `Hugging Face` `TensorFlow` `FastAPI` `Docker` `Next.js` `NestJS` `MongoDB` `Rust` `Blender` `Canvas`
 
 | Repo | Qué es |
 |---|---|
@@ -188,12 +197,10 @@ flowchart LR
 
 </details>
 
-<img src="assets/divider.svg" width="100%" alt="">
+---
 
 <div align="center">
 
-**¿Hablamos?** &nbsp;·&nbsp; [B&N Solutions](https://www.bnsolutions.cl) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/nicolas-richardson-rojas) &nbsp;·&nbsp; [fidelya.cl](https://fidelya.cl) &nbsp;·&nbsp; [GitHub](https://github.com/xSempiternus) &nbsp;·&nbsp; [Hugging Face](https://huggingface.co/xSempiternus)
-
-<sub>Escrito con señal, no con ruido.</sub>
+**¿Hablamos?** · [B&N Solutions](https://www.bnsolutions.cl) · [LinkedIn](https://linkedin.com/in/nicolas-richardson-rojas) · [fidelya.cl](https://fidelya.cl) · [Hugging Face](https://huggingface.co/xSempiternus)
 
 </div>
