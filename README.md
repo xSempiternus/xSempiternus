@@ -14,7 +14,7 @@
 
 ---
 
-Soy ingeniero físico (Universidad Andrés Bello). Mi especialidad une dos áreas: **finanzas** y **innovación tecnológica**. En finanzas, valido modelos de riesgo de crédito (que pertenecen al área financiera) como consultor de datos en **Management Solutions**, con normativas como IFRS 17 y NCG 509 y estándares SASB. En tecnología, hago ciencia, software, visión por computador, machine learning y sistemas con LLMs, RAG y agentes de IA, en **[B&N Solutions](https://www.bnsolutions.cl)** y como co-fundador y CSO de **[Fidelya](https://fidelya.cl)**. También hago la parte que se ve: sitios, animación y video.
+Soy ingeniero físico (Universidad Andrés Bello). Mi especialidad une dos áreas: **finanzas** y **innovación tecnológica**. En finanzas, valido modelos de riesgo de crédito (que pertenecen al área financiera) como consultor de datos en **Management Solutions**: trabajo con el cliente **Banco Santander** en validación de modelos de PD (probabilidad de default), stress test y requerimientos de la CMF, y en seguros con IFRS 17, NCG 509 y estándares SASB. En tecnología, hago ciencia, software, visión por computador, machine learning y sistemas con LLMs, RAG y agentes de IA, en **[B&N Solutions](https://www.bnsolutions.cl)** y como co-fundador y CSO de **[Fidelya](https://fidelya.cl)**. También hago la parte que se ve: sitios, animación y video.
 
 🏆 En noviembre de 2026 gané el **NASA International Space Apps Challenge** con [NOVA](https://github.com/4mser/nova), un médico de a bordo para astronautas.
 
@@ -37,7 +37,7 @@ Soy ingeniero físico (Universidad Andrés Bello). Mi especialidad une dos área
 
 ### 💼 Finanzas, producto y web
 
-- **Finanzas:** validación independiente de modelos de riesgo de crédito en banca (metodología, desempeño y supuestos), cumplimiento IFRS 17 y NCG 509, reportes ESG bajo SASB.
+- **Finanzas:** validación independiente de modelos de riesgo de crédito para Banco Santander (cliente de Management Solutions): modelos de PD, stress test y CMF. Además, IFRS 17 y NCG 509 en seguros y reportes ESG bajo SASB.
 - **Sitios y animación** para estudios de diseño, como Nous Diseño.
 - **Fidelya:** plataforma SaaS con IA para locales gastronómicos.
 - **Videos** de producto y divulgación con AMBAR Studio.
@@ -161,7 +161,7 @@ Tengo cuadernos de divulgación en preparación, aún sin publicar. Este es uno,
 |---|---|
 | **2023** | Práctica en el Instituto Milenio SAPHIR: detector de partículas alpha con fibras ópticas |
 | **2024** | Ingeniero de ML en VASCOLAB (YOLO para detectar filtraciones en túneles) y egreso de Ingeniería Física, UNAB |
-| **Oct 2025** | Co-fundador y CSO de Fidelya; consultor de datos en Management Solutions (modelos de riesgo de crédito, IFRS 17, NCG 509, SASB) |
+| **Oct 2025** | Co-fundador y CSO de Fidelya; consultor de datos en Management Solutions: Banco Santander (modelos de PD, stress test, CMF), IFRS 17, NCG 509, SASB |
 | **2026** | Visión computacional y ML en B&N Solutions |
 | **Nov 2026** | 🏆 Ganador del NASA International Space Apps Challenge con NOVA |
 
