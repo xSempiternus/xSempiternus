@@ -50,13 +50,9 @@ Soy ingeniero físico (Universidad Andrés Bello). Mi especialidad une dos área
 </tr>
 </table>
 
+---
+
 ## Proyectos
-
-### Nous Diseño · sitio web
-
-Portafolio de un estudio de diseño, hecho como sitio estático (HTML, CSS y JS). Diseñé y animé su intro: un monito dibujado en Canvas 2D, sin librerías, que se volvió mi sello (arriba).
-
-**Enlaces:** [ver el sitio completo](https://claude.ai/artifact/DWiBWbY1ojXrigWNtpdx4o) (versión de muestra). El dominio propio y el repositorio aún no están publicados.
 
 ### BermGuard · minería
 
@@ -70,6 +66,8 @@ Detector YOLO11 con **recall de 0,88 para CAEX** en video no visto (IC 95%: 0,77
 
 **Enlaces:** [repositorio](https://github.com/xSempiternus/BermGuard)
 
+---
+
 ### FACUP Face ID · asistencia
 
 <p align="center"><img src="assets/facup-demo.gif" alt="FACUP: panel del staff con datos de prueba" width="640"></p>
@@ -77,6 +75,8 @@ Detector YOLO11 con **recall de 0,88 para CAEX** en video no visto (IC 95%: 0,77
 Reconocimiento facial con bases de datos relacionales para llevar la asistencia en escuelas de fútbol, desde la web. Comparé 4 modelos y 3 detectores en 735 verificaciones: **97,5% de acierto y ninguna falsa identificación**. El panel del staff de la demo usa una sede y datos de prueba.
 
 **Enlaces:** [repositorio](https://github.com/xSempiternus/Facial-Recognition-FACUP)
+
+---
 
 ### NOVA · ganador del NASA Space Apps 2026
 
@@ -98,6 +98,8 @@ Corre en CPU, con una mediana de ~8 ms por cuadro. Ahora lo estoy entrenando par
 
 **Enlaces:** [repositorio del equipo](https://github.com/4mser/nova)
 
+---
+
 ### Filtraciones en túneles · YOLO
 
 <p align="center"><img src="assets/tuneles-deteccion.gif" alt="El modelo marca filtraciones sobre video de un túnel" width="640"></p>
@@ -110,6 +112,8 @@ Los túneles viales urbanos se filtran, y hoy se inspeccionan a ojo. Si ya hay c
 - Es un prototipo de investigación: las detecciones son brutas y **aún no se validan contra un conteo humano**, así que no declaro una precisión. Una misma filtración puede aparecer en varios cuadros.
 
 **Enlaces:** [artículo en B&N Solutions](https://www.bnsolutions.cl/filtraciones-tuneles)
+
+---
 
 ### Fidelya · fidelización e inteligencia de clientes
 
@@ -125,9 +129,21 @@ Co-fundé Fidelya y soy su CSO. Es una plataforma para locales gastronómicos: c
 
 **Enlaces:** [fidelya.cl](https://fidelya.cl)
 
+---
+
 ### Brew · herramientas
 
 Widget de VSCode tipo cafetería para hacer check, pull, commit y push de git en cualquier proyecto. **Enlaces:** [repositorio](https://github.com/xSempiternus/widget-git)
+
+---
+
+### Nous Diseño · sitio web
+
+Portafolio de un estudio de diseño, hecho como sitio estático (HTML, CSS y JS). Diseñé y animé su intro: un monito dibujado en Canvas 2D, sin librerías, que se volvió mi sello (arriba).
+
+**Enlaces:** [ver el sitio completo](https://claude.ai/artifact/DWiBWbY1ojXrigWNtpdx4o) (versión de muestra). El dominio propio y el repositorio aún no están publicados.
+
+---
 
 ## Más
 
